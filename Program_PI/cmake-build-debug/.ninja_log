@@ -1,0 +1,4 @@
+# ninja log v5
+677	784	7252314583219005	Program_pi.exe	c9ce8354d19958f2
+2	232	7262678188342739	build.ninja	62d139a66308e074
+2	676	7252314582166982	CMakeFiles/Program_pi.dir/PROGRAM.cpp.obj	be9cdfb02eef6770
